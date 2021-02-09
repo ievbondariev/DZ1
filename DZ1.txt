@@ -25,3 +25,10 @@ public class Operators {
         System.out.println( c +" " + name1 + d + name2);
     }
 }
+
+
+public class Operators {
+
+    public static void main(String[] args) {
+        int a = 11;
+        int b = 5;
